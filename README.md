@@ -51,15 +51,15 @@
 ---
 
 ## 📋 Table of Contents
-- [Installation](#%EF%B8%8F-installation)
-- [Running](#-running)
+- [Installation](#installation)
+- [Running](#running)
 - [Customized Inference](#customized-inference)  
 - [Citation](#citation)  
 - [Acknowledgements](#acknowledgements)  
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Installation <a id="installation"></a>
 
 **Requirements:**
 
@@ -114,7 +114,7 @@ Download the following checkpoints and put them inside the folder './model_weigh
 
 
   
-## 🎯 Running
+## 🎯 Running <a id="running"></a>
 
 A tidy cheat-sheet of commands to run your program—offline (video file) and online (live camera).
 
