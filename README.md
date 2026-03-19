@@ -51,8 +51,8 @@
 ---
 
 ## 📋 Table of Contents
-- [Installation](#installation)  
-- [Running](#running)  
+- [Installation](#%EF%B8%8F-installation)
+- [Running](#-running)
 - [Customized Inference](#customized-inference)  
 - [Citation](#citation)  
 - [Acknowledgements](#acknowledgements)  
