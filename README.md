@@ -208,14 +208,14 @@ python3 video_viewer.py \
 
 ---
 
-## 🧪 Customized Inference
+## 🧪 Customized Inference <a id="customized-inference"></a>
 
 *(Coming soon)*
 Guidelines for running **real-time** or **offline inference** with custom settings.
 
 ---
 
-## 🖊️ Citation
+## 🖊️ Citation <a id="citation"></a>
 
 If you find this work useful in your research, please cite:
 
@@ -231,7 +231,7 @@ If you find this work useful in your research, please cite:
 
 ---
 
-## 🤝 Acknowledgements
+## 🤝 Acknowledgements <a id="acknowledgements"></a>
 
 We gratefully acknowledge the following open-source projects:
 
